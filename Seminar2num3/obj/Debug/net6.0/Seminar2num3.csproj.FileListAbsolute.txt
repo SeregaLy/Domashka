@@ -1,0 +1,15 @@
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/Seminar2num3.csproj.AssemblyReference.cache
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/Seminar2num3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/Seminar2num3.AssemblyInfoInputs.cache
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/Seminar2num3.AssemblyInfo.cs
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/Seminar2num3.csproj.CoreCompileInputs.cache
+/Users/SeregaLi/Desktop/dz/Seminar2num3/bin/Debug/net6.0/Seminar2num3
+/Users/SeregaLi/Desktop/dz/Seminar2num3/bin/Debug/net6.0/Seminar2num3.deps.json
+/Users/SeregaLi/Desktop/dz/Seminar2num3/bin/Debug/net6.0/Seminar2num3.runtimeconfig.json
+/Users/SeregaLi/Desktop/dz/Seminar2num3/bin/Debug/net6.0/Seminar2num3.dll
+/Users/SeregaLi/Desktop/dz/Seminar2num3/bin/Debug/net6.0/Seminar2num3.pdb
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/Seminar2num3.dll
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/refint/Seminar2num3.dll
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/Seminar2num3.pdb
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/Seminar2num3.genruntimeconfig.cache
+/Users/SeregaLi/Desktop/dz/Seminar2num3/obj/Debug/net6.0/ref/Seminar2num3.dll
