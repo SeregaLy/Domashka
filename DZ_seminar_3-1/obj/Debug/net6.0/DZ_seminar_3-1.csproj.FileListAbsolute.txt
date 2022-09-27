@@ -1,0 +1,15 @@
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/bin/Debug/net6.0/DZ_seminar_3-1
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/bin/Debug/net6.0/DZ_seminar_3-1.deps.json
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/bin/Debug/net6.0/DZ_seminar_3-1.runtimeconfig.json
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/bin/Debug/net6.0/DZ_seminar_3-1.dll
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/bin/Debug/net6.0/DZ_seminar_3-1.pdb
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/DZ_seminar_3-1.csproj.AssemblyReference.cache
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/DZ_seminar_3-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/DZ_seminar_3-1.AssemblyInfoInputs.cache
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/DZ_seminar_3-1.AssemblyInfo.cs
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/DZ_seminar_3-1.csproj.CoreCompileInputs.cache
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/DZ_seminar_3-1.dll
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/refint/DZ_seminar_3-1.dll
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/DZ_seminar_3-1.pdb
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/DZ_seminar_3-1.genruntimeconfig.cache
+/Users/SeregaLi/Desktop/dz/DZ_seminar_3-1/obj/Debug/net6.0/ref/DZ_seminar_3-1.dll
